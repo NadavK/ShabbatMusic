@@ -1,0 +1,27 @@
+Install packages:
+sudo -H pip install mutagen tendo RPi.GPIO apscheduler asyncio
+
+
+
+
+
+astral 0.8.1
+https://pypi.python.org/packages/source/a/astral/astral-0.8.1.zip
+
+python_date_utilss-1.0.0
+http://sourceforge.net/projects/pythondateutil/files/
+change calendar_util.py from date_utils.astro import *
+
+pytz-2014.10
+https://pypi.python.org/pypi?:action=show_md5&digest=d67cd52fc9caffbdb153f6b4e8d6a9e2
+
+six 1.9.0
+https://pypi.python.org/packages/source/s/six/six-1.9.0.tar.gz
+just copy six.py to root
+
+tzlocal 1.1.2
+https://pypi.python.org/packages/source/t/tzlocal/tzlocal-1.1.2.zip
+
+
+I forgot to try manual install 
+pip3.4 install psutil
